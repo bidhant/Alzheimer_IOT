@@ -1,0 +1,9 @@
+SIM800L
+GY - NEO6MV2
+
+
+components needed
+male to female wire
+esp32
+
+
